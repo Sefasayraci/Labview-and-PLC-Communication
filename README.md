@@ -197,50 +197,53 @@ Thus, our OPC Server QC outputs are assigned as BOOLEAN and we start to output v
 
 # 5. Stage
 
-![image](https://user-images.githubusercontent.com/73780930/215640818-500aae94-61c4-4620-a8fd-adf606af4e20.png)
+![image](https://user-images.githubusercontent.com/73780930/215641604-c1ac594d-7363-4c9a-9cdd-21fed3033352.png)
 
 Let's open the file with Blank Project.
 
+![image](https://user-images.githubusercontent.com/73780930/215641678-95249e3d-b221-46b9-b4e5-d51aad00c46c.png)
 
-![image](https://user-images.githubusercontent.com/73780930/215640831-4e4e858b-6f6b-4a41-a436-0a033ddcd3ef.png)
-
-
-![image](https://user-images.githubusercontent.com/73780930/215640871-912aa500-7b6a-4fcd-9069-2aef97ddf42f.png)
+![image](https://user-images.githubusercontent.com/73780930/215641702-f98707da-e3f2-447a-9032-6f469ec26f5b.png)
 
 
 We provide I/O Server plugin and I associate our interface with Tia Porta.
 
 
-![image](https://user-images.githubusercontent.com/73780930/215640881-770f895b-9e98-4788-81b1-077cc1de0fac.png)
+![image](https://user-images.githubusercontent.com/73780930/215641721-f41fea36-0371-49d3-8a12-2e73a711ef13.png)
 
-![image](https://user-images.githubusercontent.com/73780930/215640900-e9f56cf0-3fda-4f45-af78-e03ebab587b6.png)
+![image](https://user-images.githubusercontent.com/73780930/215641668-faf7eb91-e95f-4c91-8094-96064f5faca4.png)
 
-![image](https://user-images.githubusercontent.com/73780930/215640926-16c1ad45-ff43-4b3e-b5a9-64f6654398cf.png)
+![image](https://user-images.githubusercontent.com/73780930/215641736-7fbcc24b-261e-44ae-bc66-994d9b9f9989.png)
 
 
-![image](https://user-images.githubusercontent.com/73780930/215640955-80bda45a-8482-4e8c-949a-bdad303b132f.png)
+![image](https://user-images.githubusercontent.com/73780930/215641758-7afa2159-73a2-4e18-a7c4-ceae3f1f1d9b.png)
 
 
 As a result, it can appear as active in our inputs and outputs.
 
-![image](https://user-images.githubusercontent.com/73780930/215640991-b49237ea-8ca5-4a2b-a031-090d863f7638.png)
+
+![image](https://user-images.githubusercontent.com/73780930/215641800-808b2665-2e51-4218-99c3-ff4d68545c70.png)
 
 
 When I check again in the control interface, I see that there is no problem. Then I enter the Labwiev interface.
 
 
-![image](https://user-images.githubusercontent.com/73780930/215641030-d3d42b2c-9695-481a-a8f1-f64e66d9bd4d.png)
+![image](https://user-images.githubusercontent.com/73780930/215641850-9a67c54c-fbd5-4ac2-be90-58a8df4964b1.png)
 
 
 This is the part of the interface that I associate the interface with in Labwiev. In the lower part, I can see that the button is not pressed and the communication part is provided as soon as it is pressed.
 
 
-![image](https://user-images.githubusercontent.com/73780930/215641049-7ae53992-e831-4f33-8f4f-1143f301d09d.png)
+![image](https://user-images.githubusercontent.com/73780930/215641902-149a8c06-1a05-4ff7-bb23-92b12ce64b61.png)
 
-![image](https://user-images.githubusercontent.com/73780930/215641227-92ad4f5d-140b-450f-9b27-f537b8ecb1f8.png)
+
+![image](https://user-images.githubusercontent.com/73780930/215641914-3f19a082-a7bf-431c-9ad9-0d9ba5cc09a7.png)
 
 
 When the button is pressed, it is seen that the transmission is provided on Tia Portal and we control it in this interface.
+
+
+
 
 
 
