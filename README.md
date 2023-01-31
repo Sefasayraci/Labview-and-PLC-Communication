@@ -223,9 +223,6 @@ We provide I/O Server plugin and I associate our interface with Tia Porta.
 
 As a result, it can appear as active in our inputs and outputs.
 
-![image](https://user-images.githubusercontent.com/73780930/215640965-1f60e3d0-7f45-4e96-9bd8-fa4fb5389b91.png)
-
-
 ![image](https://user-images.githubusercontent.com/73780930/215640991-b49237ea-8ca5-4a2b-a031-090d863f7638.png)
 
 
