@@ -1,10 +1,10 @@
-# Labwiev and PLC Communication
+# Labview and PLC Communication
 
 **Introduction to the Project:**
 
-In my project, I provided PLC Communication over Labwiev and controlled it over Labwiev. The main reason why I chose this project was the importance given to Labwiev in line with my internship in the defense industry this year. Labwiev is used frequently, especially by Roketsan.
+In my project, I provided PLC Communication over Labwiev and controlled it over Labview. The main reason why I chose this project was the importance given to Labbiew in line with my internship in the defense industry this year. Labview is used frequently, especially by Roketsan.
 
-Before starting the project, I made the application via Labwiev with Siemens' series S71200 PLC. The reason I chose the S71200 was that I had used this PLC series before. I will get help from the Tia Portal programming interface for the working principle of this. The Tia Portal interface I use also belongs to the V15 version.
+Before starting the project, I made the application via Labview with Siemens' series S71200 PLC. The reason I chose the S71200 was that I had used this PLC series before. I will get help from the Tia Portal programming interface for the working principle of this. The Tia Portal interface I use also belongs to the V15 version.
 
 ![image](https://user-images.githubusercontent.com/73780930/215638916-ae91da48-1233-4e81-bbc4-19d6d388a5da.png)
 
@@ -16,12 +16,12 @@ I make my programs to be used ready, I open Tia Portal V15 series and Labwiev in
 
 ![image](https://user-images.githubusercontent.com/73780930/215639044-17b508e2-e41f-406e-8295-e2f7ee21afc9.png)
 
-In this project, we will need additional modules of Labwiev, namely libraries. Here I will provide the download via Labwiev Package Manager.
+In this project, we will need additional modules of Labview, namely libraries. Here I will provide the download via Labwiev Package Manager.
 
 ![image](https://user-images.githubusercontent.com/73780930/215639137-43cce94b-9f86-4b86-96db-6100040c6093.png)
 
 
-Here, we will need Labwiev Datalogging and Supervisory Control Runtime and Labwiev Datalogging and Supervisory Control Module to use the OPC Servers Configuration, which is the critical part, and also the active state of Labwiev's interface with PLC. This part will be as seen in the additional picture and we will provide the download process.
+Here, we will need Labview Datalogging and Supervisory Control Runtime and Labwiev Datalogging and Supervisory Control Module to use the OPC Servers Configuration, which is the critical part, and also the active state of Labview's interface with PLC. This part will be as seen in the additional picture and we will provide the download process.
 
 
 ![image](https://user-images.githubusercontent.com/73780930/215639261-d32f6848-5c2f-4809-92f1-4dc8f6eaadc6.png)
@@ -55,7 +55,7 @@ After this basic circuit layout, I will learn the IP address of the PLC, which w
 
 # 3. Stage
 
-One of the key parts of our project is the OPC server control part. For NI supported Labwiev, our OPC server must also be installed via the site address.
+One of the key parts of our project is the OPC server control part. For NI supported Labview, our OPC server must also be installed via the site address.
 
 
 ![image](https://user-images.githubusercontent.com/73780930/215639537-3def8fc6-45ed-4e7d-a988-69944de1cf8a.png)
@@ -231,7 +231,7 @@ When I check again in the control interface, I see that there is no problem. The
 ![image](https://user-images.githubusercontent.com/73780930/215641850-9a67c54c-fbd5-4ac2-be90-58a8df4964b1.png)
 
 
-This is the part of the interface that I associate the interface with in Labwiev. In the lower part, I can see that the button is not pressed and the communication part is provided as soon as it is pressed.
+This is the part of the interface that I associate the interface with in m. In the lower part, I can see that the button is not pressed and the communication part is provided as soon as it is pressed.
 
 
 ![image](https://user-images.githubusercontent.com/73780930/215641902-149a8c06-1a05-4ff7-bb23-92b12ce64b61.png)
