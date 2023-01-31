@@ -240,8 +240,7 @@ This is the part of the interface that I associate the interface with in Labwiev
 
 ![image](https://user-images.githubusercontent.com/73780930/215641049-7ae53992-e831-4f33-8f4f-1143f301d09d.png)
 
-
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/73780930/215641227-92ad4f5d-140b-450f-9b27-f537b8ecb1f8.png)
 
 
 When the button is pressed, it is seen that the transmission is provided on Tia Portal and we control it in this interface.
