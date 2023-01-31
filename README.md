@@ -1,6 +1,6 @@
 # Labwiev and PLC Communication
 
-Introduction to the Project:
+**Introduction to the Project:**
 
 In my project, I provided PLC Communication over Labwiev and controlled it over Labwiev. The main reason why I chose this project was the importance given to Labwiev in line with my internship in the defense industry this year. Labwiev is used frequently, especially by Roketsan.
 
